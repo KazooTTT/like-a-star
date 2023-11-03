@@ -20,7 +20,6 @@
     "@sanity/image-url": "^1.0.2",
     "@sanity/vision": "^3.19.1",
     "flowbite": "^1.5.5",
-    "flowbite-react": "^0.3.7",
     "next": "^13.0.6",
     "next-sanity": "^5.5.10",
     "react": "18",
