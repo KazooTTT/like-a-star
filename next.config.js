@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental:{
-    appDir:true
+  experimental: {
+    appDir: true,
   },
   images: {
-    domains: ["flowbite.com",'pictures.kazoottt.top'],
+    domains: ["flowbite.com", "pictures.kazoottt.top"],
   },
   reactStrictMode: true,
   swcMinify: true,
