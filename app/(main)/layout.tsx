@@ -1,7 +1,6 @@
 import { FC, PropsWithChildren } from "react";
 import "@/app/globals.css";
 import StickyNavBar from "@/components/layout/stickyNavBar";
-import { ClerkProvider } from '@clerk/nextjs'
 
 export const metadata = {
   title: "它像一颗",
